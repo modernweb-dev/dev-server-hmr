@@ -1,5 +1,3 @@
-import path from 'path';
-import { fileURLToPath } from 'url';
 import { hmrPlugin } from '../../index.mjs';
 
 export default {

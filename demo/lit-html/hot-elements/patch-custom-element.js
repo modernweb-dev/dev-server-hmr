@@ -3,10 +3,6 @@
  */
 const implMap = new Map();
 
-function isHotReloadableElementClass(maybe) {
-  return 'hotReplaceCallback' in maybe;
-}
-
 const originalDefine = customElements.define;
 
 function hotDefine(tagname, classObj) {

@@ -52,7 +52,7 @@ class TodoList extends BaseElement {
     return this._items;
   }
 
-  _onCheckedChanged(e) {}
+  _onCheckedChanged() {}
 }
 
 customElements.define('todo-list', TodoList);
