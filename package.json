@@ -47,7 +47,7 @@
     "chai": "^4.4.0",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
-    "hanbi": "1.0.1",
+    "hanbi": "^1.0.3",
     "lit-html": "^2.7.3 || ^3.0.0",
     "mocha": "^10.2.0",
     "nanocolors": "^0.2.13",
